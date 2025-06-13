@@ -1,0 +1,20 @@
+src/
+└── main
+    ├── java
+    │   └── com
+    │       └── example
+    │           ├── RegisterServlet.java
+    │           ├── User.java
+    │           └── UserServlet.java
+    ├── resources
+    └── webapp
+        ├── WEB-INF
+        │   ├── lib
+        │   └── web.xml
+        ├── dashboard.jsp
+        ├── edit.jsp
+        ├── register.jsp
+        ├── userForm.jsp
+        └── userManagement.jsp
+
+8 directories, 9 files
