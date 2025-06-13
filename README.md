@@ -1,2 +1,2 @@
-# rp-devops
+# learn-devops
 Learn DevOps with Eric
