@@ -1,0 +1,15 @@
+UserManagement/
+├── pom.xml
+├── mvnw*  
+└── src
+    └── main
+        ├── java/com/example
+        │   ├── RegisterServlet.java
+        │   ├── UserServlet.java
+        │   └── User.java
+        └── webapp
+            ├── register.jsp
+            ├── edit.jsp
+            ├── dashboard.jsp
+            └── WEB-INF
+                └── web.xml
